@@ -1,4 +1,5 @@
 Rencana Belajar
 - selesaikan game add one
 - belajar game baru (stanford lecture)
-- belajar xcode baru (carousel effect) 
+- belajar xcode baru (carousel effect)
+- lanjut belajar unity
