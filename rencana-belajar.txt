@@ -3,3 +3,4 @@ Rencana Belajar
 - belajar game baru (stanford lecture)
 - belajar xcode baru (carousel effect)
 - lanjut belajar unity
+- lanjut belajar python
