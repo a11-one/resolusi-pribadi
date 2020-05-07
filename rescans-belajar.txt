@@ -1,0 +1,4 @@
+Rencana Belajar
+- selesaikan game add one
+- belajar game baru
+- belajar xcode baru
